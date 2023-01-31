@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #2B2B2B;
+    /* border-bottom: 1px solid #e7e7e7; */
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+    min-height: 50px;
+    position: relative;
+    z-index: 3;
+}
