@@ -6,7 +6,7 @@ import { Foo } from 'src/app/models/foo';
 @Component({
   selector: 'app-lista',
   templateUrl: './lista.component.html',
-  styleUrls: ['./lista.component.css']
+  styleUrls: ['./lista.component.scss']
 })
 export class ListaComponent implements OnInit {
 
